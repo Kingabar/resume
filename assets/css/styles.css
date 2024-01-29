@@ -1,0 +1,265 @@
+/* Resetting default styles and setting a background color for the body */
+body {
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: #c0c0c0;
+}
+
+/* Media query for larger screens */
+@media (min-width: 768px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+/* Styling the navigation bar */
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Styling the navigation links using Bootstrap classes */
+nav a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ 
+  .navbar {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .navbar li {
+    float: left;
+  }
+  
+  .navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+
+/* Styling for the header 2 element */
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+/* Styling for the picture section using Bootstrap classes */
+.picture {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Styling for the picture image using Bootstrap classes */
+.picture img {
+    margin-bottom: 20px;
+    border: 5px dotted rgb(117, 119, 118);
+    padding: 20px;
+    max-width: 100%;
+}
+
+/* Styling for the picture paragraph using Bootstrap classes */
+.picture p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 1.8;
+    color: #555;
+    background-color: #f8f8f8;
+    border: 2px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+/*Styling about me section using bootstrap */
+.about-me {
+    margin-top: 60px;
+    font-size: 18px;
+    line-height: 1.8;
+    color: #555;
+    background-color: #f8f8f8;
+    border: 2px solid #ddd;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Styling for the tab content using Bootstrap classes */
+.tab-content {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+/* Styling for the resume section */
+#resume {
+    text-align: center;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for the resume section header 2 element */
+#resume h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Styling for the resume section paragraphs */
+#resume p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+/* Styling for the contact information */
+#resume .contact-info {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4CAF50;
+    margin-bottom: 15px;
+}
+
+/* Styling for the phone and email */
+#resume .contact-info p {
+    margin: 8px 0;
+}
+
+/* Styling for the role/title */
+#resume .role {
+    font-size: 20px;
+    color: #007BFF;
+    margin-bottom: 15px;
+}
+
+/* Styling for the work experience section */
+#resume .work-experience h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Styling for the education section */
+#resume .education h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Styling for certifications and licenses section */
+#resume .certifications h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+/* Styling for the contact form using Bootstrap classes */
+#contact-form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for the contact form header 2 element */
+#contact-form h2 {
+    text-align: center;
+    color: #333;
+}
+
+/* Styling for labels in the contact form using Bootstrap classes */
+#contact-form label {
+    margin-bottom: 5px;
+    color: #555;
+}
+
+/* Styling for input fields and textarea in the contact form using Bootstrap classes */
+#contact-form input[type="text"],
+#contact-form input[type="email"],
+#contact-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+/* Styling for the textarea resize property */
+#contact-form textarea {
+    resize: none;
+}
+
+/* Styling for the submit button in the contact form */
+#contact-form input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Styling for the submit button on hover in the contact form */
+#contact-form input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+
+
+/* Styling for the Footer */ 
+.footer-container {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.social-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px; 
+    margin: 0 10px;
+}
+
+.social-links a:hover {
+    text-decoration: underline;
+}
