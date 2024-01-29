@@ -52,12 +52,14 @@ Sections and Content
 ![Certis](https://github.com/Kingabar/resume/assets/131781858/e427714c-ebfa-40e5-912c-2c035da177c6)
 ⦁	Contact
  ![form](https://github.com/Kingabar/resume/assets/131781858/64cddfee-436a-4775-9497-e12d67ad8af7)
+ 
 Contact Form
 ⦁	The form is styled with a maximum width of 400px, centered, and has a light background (#f4f4f4).
 ⦁	Input fields and the submit button have Bootstrap styling, and the button changes color on hover.
 Footer
 ⦁	The footer has a dark background (#333) with white text, providing a clear contrast. 
 ⦁	Footer contains social media links that open in a new tab.​
+![footer](https://github.com/Kingabar/resume/assets/131781858/d66167fe-dd0a-4fa1-9f6e-ef7626a4069d)
  
 Pictures used 
 ⦁	certi.png: Image file for certification.
@@ -86,18 +88,11 @@ Design - dominant colours
  
 
 5. Deployment
-Deployment via GitHub Pages
-
-Select the Repository you wish to deploy.
-Under the "Repo" name on the top left of the screen there is a menu, select the settings tab on this menu. see photo
- 
-Scroll down to the GitHub Pages section.
-Under Source use the None or Branch drop down menu to select the publishing source you wish to use. Master is recommened. see photo see photo
- 
-
-Select Save and refresh the page.
-Your published address will appear in a green highlighted container above Source.
-Click the link to test it works.
+Deployment to GitHub Pages
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Main Branch, then click "Save".
+The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 6. Credits 
 ⦁	Help with Accesibility 
