@@ -83,12 +83,12 @@
 ### ⦁	The form is styled with a maximum width of 400px, centered, and has a light background (#f4f4f4).
 ### ⦁	Input fields and the submit button have Bootstrap styling, and the button changes color on hover.
 
-# Footer
+## Footer
 #### ⦁	The footer has a dark background (#333) with white text, providing a clear contrast. 
 #### ⦁	Footer contains social media links that open in a new tab.​
 ![footer](https://github.com/Kingabar/resume/assets/131781858/d66167fe-dd0a-4fa1-9f6e-ef7626a4069d)
  
-# Pictures used 
+## Pictures used 
 #### ⦁	certi.png: Image file for certification.
 #### ⦁	scrumC.png: Image file for Scrum certification.
 #### ⦁	mypict.png: Kinga's profile picture.
