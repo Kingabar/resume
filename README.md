@@ -92,6 +92,8 @@
 #### ⦁	The footer has a dark background (#333) with white text, providing a clear contrast. 
 #### ⦁	Footer contains social media links that open in a new tab.​
 ![footer](https://github.com/Kingabar/resume/assets/131781858/d66167fe-dd0a-4fa1-9f6e-ef7626a4069d)
+[link](https://github.com/Kingabar)
+[link](https://www.linkedin.com/in/kinga-barylowska-47767a277/)
 
 
  
