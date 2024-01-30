@@ -26,6 +26,7 @@
 #### ⦁	Showcasing Skills and Experience:  The primary goal is to present Kinga's skills, experience, and certifications in a clear and compelling manner to potential employers, clients, or collaborators.
 #### ⦁	Personal Branding: Establishing a personal brand is essential. The website aims to reflect Kinga's unique identity, values, and approach to software development, creating a memorable impression among visitors.
 
+---
 
 ## 2. Users Experience (UX)
 
@@ -101,6 +102,7 @@
 #### ⦁	scrumC.png: Image file for Scrum certification.
 #### ⦁	mypict.png: Kinga's profile picture.
 
+----
 
 
 ## 4. Technologies Used
@@ -127,13 +129,21 @@ Figma was used to create the wireframes during the design process.
 ### #f8f8f8 (used for the picture paragraph and about me section backgrounds)
  
 ### #333 (used for the navigation bar and footer container backgrounds)
- 
+
+
+ ---
+
+
 ## 5. Deployment
 #### Deployment to GitHub Pages
 #### The site was deployed to GitHub pages. The steps to deploy are as follows:
 #### In the GitHub repository, navigate to the Settings tab
 #### From the source section drop-down menu, select the Main Branch, then click "Save".
 #### The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+
+------
+
 
 ## 6. Credits 
 #### ⦁	Help with Accesibility 
@@ -146,6 +156,8 @@ Figma was used to create the wireframes during the design process.
 #### https://getbootstrap.com/docs/5.3/forms/overview/#overview
 #### ⦁	Chatgpt for help with footer.
 #### ⦁	Font Awesome for github and linked in logos for footer. 
+
+------
 
 # Feel free to explore Kinga's Page, and if you have any questions or feedback, please contact her through the provided information in the Contact section.
 
