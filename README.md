@@ -5,12 +5,12 @@
 ---
 
 # Table of Contents
-*1 About*
-*2 Users Experience (UX)*
-*3 Features*
-*4 Technologies Used*
-*5 Deployment*
-*6 Credits*
+#### 1 About
+### 2 Users Experience (UX)
+### 3 Features
+### 4 Technologies Used
+### 5 Deployment
+### 6 Credits
 
 ---
 
@@ -24,6 +24,7 @@
 ### ⦁	Showcasing Skills and Experience:  The primary goal is to present Kinga's skills, experience, and certifications in a clear and compelling manner to potential employers, clients, or collaborators.
 ### ⦁	Personal Branding: Establishing a personal brand is essential. The website aims to reflect Kinga's unique identity, values, and approach to software development, creating a memorable impression among visitors.
 
+---
 
 ## 2. Users Experience (UX)
 
@@ -37,6 +38,10 @@
 ## Returning Visitor
 ### ⦁	As a returning visitor, I want to see clearly the job history and certification.
 ### ⦁	As a returning visitor, I'm interested in discovering community links or any professional affiliations you have, allowing me to learn more about your involvement in the industry and your network.
+
+
+---
+
 
 ## 4. Features
 ### ⦁	Navbar
