@@ -1,11 +1,11 @@
 # Kinga's Page - Read Me
 ![devices ](https://github.com/Kingabar/resume/assets/131781858/b10d95c3-c84e-4e92-a729-b8824afad333)
 
-Website can be accesed by 
+Website can be accesed by https://kingabar.github.io/resume/#home
 
 # Table of Contents
-## 1 About
-## 2 Users Experience (UX)
+* 1 About
+* 2 Users Experience (UX)
 ## 3 Features
 ## 4 Technologies Used
 ## 5 Deployment
