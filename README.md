@@ -80,13 +80,11 @@
 
 
 
-### ⦁	Contact
- ![form](https://github.com/Kingabar/resume/assets/131781858/64cddfee-436a-4775-9497-e12d67ad8af7)
-
  
 ## Contact Form
 ### ⦁	The form is styled with a maximum width of 400px, centered, and has a light background (#f4f4f4).
 ### ⦁	Input fields and the submit button have Bootstrap styling, and the button changes color on hover.
+ ![form](https://github.com/Kingabar/resume/assets/131781858/64cddfee-436a-4775-9497-e12d67ad8af7)
 
 
 
