@@ -24,7 +24,6 @@
 ### ⦁	Showcasing Skills and Experience:  The primary goal is to present Kinga's skills, experience, and certifications in a clear and compelling manner to potential employers, clients, or collaborators.
 ### ⦁	Personal Branding: Establishing a personal brand is essential. The website aims to reflect Kinga's unique identity, values, and approach to software development, creating a memorable impression among visitors.
 
----
 
 ## 2. Users Experience (UX)
 
