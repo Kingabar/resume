@@ -17,14 +17,14 @@
 
 
 ## 1. About
-#### Welcome to the documentation for Kinga's Page! This web page serves as a personal portfolio for Kinga Barylowska, showcasing her skills, experience, and certifications. 
-#### Below, you'll find information on the structure of the HTML file, styling using CSS, Bootstrap. 
+  #### Welcome to the documentation for Kinga's Page! This web page serves as a personal portfolio for Kinga Barylowska, showcasing her skills, experience, and certifications. 
+  #### Below, you'll find information on the structure of the HTML file, styling using CSS, Bootstrap. 
 
 
 ## Project Goals
 
-#### ⦁	Showcasing Skills and Experience:  The primary goal is to present Kinga's skills, experience, and certifications in a clear and compelling manner to potential employers, clients, or collaborators.
-#### ⦁	Personal Branding: Establishing a personal brand is essential. The website aims to reflect Kinga's unique identity, values, and approach to software development, creating a memorable impression among visitors.
+  #### ⦁	Showcasing Skills and Experience:  The primary goal is to present Kinga's skills, experience, and certifications in a clear and compelling manner to potential employers, clients, or collaborators.
+  #### ⦁	Personal Branding: Establishing a personal brand is essential. The website aims to reflect Kinga's unique identity, values, and approach to software development, creating a memorable impression among visitors.
 
 ---
 
@@ -33,21 +33,21 @@
 ### 2.1 Users stories
 
 ### First Time Visitor Goals:
-#### ⦁	As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
-#### ⦁	As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
-#### ⦁	As a returning visitor, I want to find a clear and accessible way to get in touch with you, either through a contact form or provided contact details, so that I can ask additional questions or discuss potential collaborations.
+  #### ⦁	As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
+  #### ⦁	As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
+  #### ⦁	As a returning visitor, I want to find a clear and accessible way to get in touch with you, either through a contact form or provided contact details, so that I can ask additional questions or discuss potential collaborations.
 
 ### Returning Visitor
-#### ⦁	As a returning visitor, I want to see clearly the job history and certification.
-#### ⦁	As a returning visitor, I'm interested in discovering community links or any professional affiliations you have, allowing me to learn more about your involvement in the industry and your network.
+  #### ⦁	As a returning visitor, I want to see clearly the job history and certification.
+  #### ⦁	As a returning visitor, I'm interested in discovering community links or any professional affiliations you have, allowing me to learn more about your involvement in the industry and your network.
 
 
 ---
 
 
 ## 3. Features
-#### ⦁	Navbar
-#### Navigation  - Positioned at the top of the page. The navigation bar has a dark background (#333) and contains links styled with Bootstrap classes. Contains navigation links on the left side:
+  #### ⦁	Navbar
+  #### Navigation  - Positioned at the top of the page. The navigation bar has a dark background (#333) and contains links styled with Bootstrap classes. Contains navigation links on the left side:
  ![navbar](https://github.com/Kingabar/resume/assets/131781858/d2d57e56-f436-404f-b8c2-2085d604062e)
 
 
