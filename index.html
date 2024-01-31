@@ -4,31 +4,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Kinga Barylowska's personal page showcasing her skills and experience as a Software Developer.">
+    <meta name="description"
+        content="Kinga Barylowska's personal page showcasing her skills and experience as a Software Developer.">
     <title>Kinga's Page</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="assets/css/styles.css">
-
-
 </head>
 
 <body>
     <!--Navbar-->
     <nav class="navbar">
         <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#resume">Resume</a></li>
-            <li><a href="#certification">Certification</a></li>
-            <li><a href="#contact-form">Contact</a></li>
+            <li><a href="#home" aria-label="Navigate to Home">Home</a></li>
+            <li><a href="#resume" aria-label="Navigate to Resume">Resume</a></li>
+            <li><a href="#certification" aria-label="Navigate to Certification">Certification</a></li>
+            <li><a href="#contact-form" aria-label="Navigate to Contact">Contact</a></li>
         </ul>
     </nav>
+
 
     <h2>Welcome to my Page <br> I'm Kinga</h2>
 
     <!-- Paragraph -->
-    <div class="container">
+    <div class="container" aria-label="About Me Section">
         <div class="row">
             <div class="col-12 col-sm-6">
                 <div class="picture">
@@ -65,7 +65,7 @@
 
 
     <!--Resume-->
-    <div id="resume" class="container">
+    <div id="resume" class="container" are-label="Resume Section">
         <div class="row">
             <div class="col-md-8 offset-md-2">
                 <h2>Resume</h2>
@@ -106,7 +106,7 @@
 
 
     <!-- Certification-->
-    <div id="certification" class="container">
+    <div id="certification" class="container" area-label="Certification Section">
         <h2>Certification</h2>
         <div class="row">
             <div class="col-12 col-sm-6">
@@ -118,9 +118,10 @@
         </div>
     </div>
 
-    
+
+
     <!-- Contact Form -->
-    <form action="https://formsubmit.co/Kinga.Barylowska@gmail.com" method="POST">
+    <form action="https://formsubmit.co/Kinga.Barylowska@gmail.com" method="POST" area-label="Contact Section">
 
         <div id="contact-form">
             <h2>Contact form</h2>
@@ -140,12 +141,11 @@
 
 
 
-
     <!--Footer-->
-    <footer>
+    <footer area-label="Footer Section">
         <div class="footer-container">
             <div class="social-links">
-                <a href="https://github.com/Kingabar" target="_blank" rel="noopener noreferrer"> 
+                <a href="https://github.com/Kingabar" target="_blank" rel="noopener noreferrer">
                     <i class="fa-brands fa-github"></i>
                 </a>
                 <a href="https://www.linkedin.com/in/kinga-barylowska-47767a277/" target="_blank"
