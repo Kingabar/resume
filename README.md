@@ -223,8 +223,7 @@ Figma was used to create the wireframes during the design process.
     ![Mobile 414x736]![mobile 414x736](https://github.com/Kingabar/resume/assets/131781858/54c81897-82fd-4557-8d26-2b1ae53e715b)
 
 
- ## Lighthouse text 
- ![](https://googlechrome.github.io/lighthouse/viewer/)
+ ## Lighthouse test
 
 
 ## 7. Credits 
