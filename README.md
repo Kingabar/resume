@@ -10,7 +10,9 @@
 #### 3 Features
 #### 4 Technologies Used
 #### 5 Deployment
-#### 6 Credits
+#### 6 Testing
+#### 7 Credits
+
 
 ---
 
@@ -165,10 +167,68 @@ Figma was used to create the wireframes during the design process.
 
   10. To stop the local server, simply close the browser tab displaying your website or click on the "Stop" button in the Live Server output panel
 
-------
+---
+# 6 Testing
+# Testing
+ 
+ -[link]![whole page](https://github.com/Kingabar/resume/assets/131781858/ac02d333-41a3-43c3-9a9d-c129c1a2f85c)
+
+## Compatibility
+
+ - Safari [link] (https://live.browserstack.com/dashboard#os=OS+X&os_version=Ventura&browser=Safari&browser_version=16.5&zoom_to_fit=true&full_screen=true&url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F&speed=1)
+
+ - Firefox[link](https://live.browserstack.com/dashboard#os=OS+X&os_version=Sonoma&browser=Firefox&browser_version=122.0&zoom_to_fit=true&full_screen=true&url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F&speed=1)
+
+ - Edge [Link](https://live.browserstack.com/dashboard#os=Windows&os_version=11&browser=Chrome&browser_version=121.0&device_browser=chrome&zoom_to_fit=true&full_screen=true&url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F%23certification&speed=1)
+
+ - Opera [link](https://github.com/Kingabar/resume/assets/131781858/cafeede8-bc17-46e3-aadb-8c6b5ce2e13f)
 
 
-## 6. Credits 
+## Validation
+ - All sections passed the W3C HTML validator with no warnings or errors.
+[link](https://github.com/Kingabar/resume/assets/131781858/9e45a362-0901-4077-8943-56ea5753a438)
+
+
+
++ The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F&width=360&height=640)
+
+- Desktop Screens: 
+
+![Desktop 1024x600][desktop 1024x600](https://github.com/Kingabar/resume/assets/131781858/5419c10b-9fdc-4603-b6e8-470ca6045055)
+![Desktop 1366x768]![desktop 1366x768](https://github.com/Kingabar/resume/assets/131781858/0b5440ae-40b1-47bf-94dd-cddbed1d5a0e)
+![Desktop 1440x900]![desktop 1440x900](https://github.com/Kingabar/resume/assets/131781858/8c87b604-a2a4-466e-a8de-43eee8f0b810)
+![Desktop 1600x900]![desktop1600x900](https://github.com/Kingabar/resume/assets/131781858/6381c4fb-b1da-4193-b98f-c3913c58c454)
+![Desktop 1680x1050]![desktop 1680x1050](https://github.com/Kingabar/resume/assets/131781858/420d902f-fca5-4e33-a76e-8ebfbaa93ace)
+![Desktop 1920x1080]![desktop 1920x1080](https://github.com/Kingabar/resume/assets/131781858/9fc0662a-7636-47fc-96f9-c2d322bdaaa8)
+![Desktop 1920x1200]![desktop 1920x1200](https://github.com/Kingabar/resume/assets/131781858/aba890df-4d0f-4173-8a13-71c0e5b19319)
+
+
+- Tablet Screens:
+
+    ![Tablet 600x960]![tablet 600x960](https://github.com/Kingabar/resume/assets/131781858/196c845c-e22d-4f59-84da-da3a9ca2c68f)
+    ![Tablet 768x1024]![tablet 768x1024](https://github.com/Kingabar/resume/assets/131781858/d94f0381-245c-4b67-9815-c1c7bbcac811)
+    ![Tablet 800x1280]![tablet 800x1280](https://github.com/Kingabar/resume/assets/131781858/07086b2d-20ce-4ee5-b1b3-bb0b92570a3c)
+    ![Tablet 1024x768]
+    ![Tablet 1366x1024]![tablet 1366x1024](https://github.com/Kingabar/resume/assets/131781858/97d2ab8c-98f9-45fd-9f4f-bf3bbf2ab763)
+    ![Tablet Kindle 768x1024]
+
+
+- Mobile:
+
+    ![Mobile 320x480]![mobile 320x480](https://github.com/Kingabar/resume/assets/131781858/82337f4c-dfed-472a-9728-cd1861112275)
+    ![Mobile 320x568]
+    ![Mobile 360x640]
+    ![Mobile 375x667]
+    ![Mobile 384x640]
+    ![Mobile 411x731]
+    ![Mobile 414x736]![mobile 414x736](https://github.com/Kingabar/resume/assets/131781858/54c81897-82fd-4557-8d26-2b1ae53e715b)
+
+
+ ## Lighthouse text 
+ [link](https://googlechrome.github.io/lighthouse/viewer/)
+
+
+## 7. Credits 
 #### ⦁	Help with Accesibility 
 #### https://www.youtube.com/watch?v=-ao_Kc_8rpE 
 #### ⦁	Code Institute tutors and Slack community members for their support.
