@@ -183,16 +183,15 @@ Figma was used to create the wireframes during the design process.
  - Opera
    ![opera](https://github.com/Kingabar/resume/assets/131781858/cafeede8-bc17-46e3-aadb-8c6b5ce2e13f)
 
++ The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F&width=360&height=640)
+
 
 ## Validation
  - All sections passed the W3C HTML validator with no warnings or errors.
    ![pic](https://github.com/Kingabar/resume/assets/131781858/9e45a362-0901-4077-8943-56ea5753a438)
 
 
-
-+ The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F&width=360&height=640)
-
-- Desktop Screens: 
+# Desktop Screens: 
 
 ![Desktop 1024x600][desktop 1024x600](https://github.com/Kingabar/resume/assets/131781858/5419c10b-9fdc-4603-b6e8-470ca6045055)
 ![Desktop 1366x768]![desktop 1366x768](https://github.com/Kingabar/resume/assets/131781858/0b5440ae-40b1-47bf-94dd-cddbed1d5a0e)
