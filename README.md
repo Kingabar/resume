@@ -186,7 +186,7 @@ Figma was used to create the wireframes during the design process.
 
 ## Validation
  - All sections passed the W3C HTML validator with no warnings or errors.
-[link](https://github.com/Kingabar/resume/assets/131781858/9e45a362-0901-4077-8943-56ea5753a438)
+   ![pic](https://github.com/Kingabar/resume/assets/131781858/9e45a362-0901-4077-8943-56ea5753a438)
 
 
 
