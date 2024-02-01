@@ -174,13 +174,14 @@ Figma was used to create the wireframes during the design process.
 
 ## Compatibility
 
- - Safari[link](
+ - Firefox
+ - ![firefox](https://github.com/Kingabar/resume/assets/131781858/2b6cc802-985a-4ab7-b6dd-2a40001a02bb)
 
- - Firefox[link]
-
+ - Edge
  - ![edge](https://github.com/Kingabar/resume/assets/131781858/275df442-137b-4578-8fb3-e2149ce93cb5)
 
- - Opera [link](https://github.com/Kingabar/resume/assets/131781858/cafeede8-bc17-46e3-aadb-8c6b5ce2e13f)
+ - Opera
+ - ![opera](https://github.com/Kingabar/resume/assets/131781858/cafeede8-bc17-46e3-aadb-8c6b5ce2e13f)
 
 
 ## Validation
