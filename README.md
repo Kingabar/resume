@@ -1,7 +1,7 @@
 # Kinga's Page - Read Me
 ![devices ](https://github.com/Kingabar/resume/assets/131781858/b10d95c3-c84e-4e92-a729-b8824afad333)
 
-## Website can be accesed by [link](https://kingabar.github.io/resume/#home)
+## Website can be accesed by [link](https://kingabar.github.io/resume/)
 
 
 ## Table of Contents
