@@ -204,12 +204,11 @@ Figma was used to create the wireframes during the design process.
 
 - Tablet Screens:
 
-    ![Tablet 600x960]![tablet 600x960](https://github.com/Kingabar/resume/assets/131781858/196c845c-e22d-4f59-84da-da3a9ca2c68f)
-    ![Tablet 768x1024]![tablet 768x1024](https://github.com/Kingabar/resume/assets/131781858/d94f0381-245c-4b67-9815-c1c7bbcac811)
-    ![Tablet 800x1280]![tablet 800x1280](https://github.com/Kingabar/resume/assets/131781858/07086b2d-20ce-4ee5-b1b3-bb0b92570a3c)
-    ![Tablet 1024x768]
+    ![tablet 600x960](https://github.com/Kingabar/resume/assets/131781858/196c845c-e22d-4f59-84da-da3a9ca2c68f)
+    ![tablet 768x1024](https://github.com/Kingabar/resume/assets/131781858/d94f0381-245c-4b67-9815-c1c7bbcac811)
+    ![tablet 800x1280](https://github.com/Kingabar/resume/assets/131781858/07086b2d-20ce-4ee5-b1b3-bb0b92570a3c)
     ![Tablet 1366x1024]![tablet 1366x1024](https://github.com/Kingabar/resume/assets/131781858/97d2ab8c-98f9-45fd-9f4f-bf3bbf2ab763)
-    ![Tablet Kindle 768x1024]
+    
 
 
 - Mobile:
