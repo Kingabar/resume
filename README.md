@@ -183,7 +183,7 @@ Figma was used to create the wireframes during the design process.
  - Opera
    ![opera](https://github.com/Kingabar/resume/assets/131781858/cafeede8-bc17-46e3-aadb-8c6b5ce2e13f)
 
-+ The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F&width=360&height=640)
++ The website was checked with [Responsive Website Design Tester](https://live.browserstack.com/dashboard#os=Windows&os_version=11&browser=Firefox&browser_version=122.0&zoom_to_fit=true&full_screen=true&url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F%23certification&speed=1)
 
 
 ## Validation
@@ -209,15 +209,16 @@ Figma was used to create the wireframes during the design process.
   ![tablet 768x1024](https://github.com/Kingabar/resume/assets/131781858/d94f0381-245c-4b67-9815-c1c7bbcac811)
   ![tablet 800x1280](https://github.com/Kingabar/resume/assets/131781858/07086b2d-20ce-4ee5-b1b3-bb0b92570a3c)
   ![tablet 1366x1024](https://github.com/Kingabar/resume/assets/131781858/97d2ab8c-98f9-45fd-9f4f-bf3bbf2ab763)
+
     
-
-
 ## Mobile:
 
   ![mobile 320x480](https://github.com/Kingabar/resume/assets/131781858/82337f4c-dfed-472a-9728-cd1861112275)
   ![mobile 414x736](https://github.com/Kingabar/resume/assets/131781858/54c81897-82fd-4557-8d26-2b1ae53e715b)
 
++ The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F&width=360&height=640)
 
+  
  # Lighthouse test
 
 
