@@ -20,8 +20,8 @@
 
 
 ## Project Goals
-  - Showcasing Skills and Experience:  The primary goal is to present Kinga's skills, experience, and certifications in a clear and compelling manner to potential employers, clients, or collaborators.
-  -	Personal Branding: Establishing a personal brand is essential. The website aims to reflect Kinga's unique identity, values, and approach to software development, creating a memorable impression among visitors.
+- Showcasing Skills and Experience:  The primary goal is to present Kinga's skills, experience, and certifications in a clear and compelling manner to potential employers, clients, or collaborators.
+- Personal Branding: Establishing a personal brand is essential. The website aims to reflect Kinga's unique identity, values, and approach to software development, creating a memorable impression among visitors.
 
 
 ## 2. Users Experience (UX)
@@ -29,18 +29,18 @@
 
   First Time Visitor Goals:
   
- -	As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
- -	As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
+ - As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
+ - As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
  - As a returning visitor, I want to find a clear and accessible way to get in touch with you, either through a contact form or provided contact details, so that I can ask additional questions or discuss potential collaborations.
 
  Returning Visitor Goals:
  
- -	As a returning visitor, I want to see clearly the job history and certification.
+ - As a returning visitor, I want to see clearly the job history and certification.
  - As a returning visitor, I'm interested in discovering community links or any professional affiliations you have, allowing me to learn more about your involvement in the industry and your network.
 
 
 ## 3. Features
- 	Navbar
+ Navbar
    - Navigation  - Positioned at the top of the page. The navigation bar has a dark background (#333) and contains links styled with Bootstrap classes. Contains navigation links on the left side:
  ![navbar](https://github.com/Kingabar/resume/assets/131781858/d2d57e56-f436-404f-b8c2-2085d604062e)
 
@@ -74,7 +74,7 @@
 
  
 - Contact Form
- -	The form is styled with a maximum width of 400px, centered, and has a light background (#f4f4f4).
+ - The form is styled with a maximum width of 400px, centered, and has a light background (#f4f4f4).
  - Input fields and the submit button have Bootstrap styling, and the button changes color on hover.
  ![form](https://github.com/Kingabar/resume/assets/131781858/64cddfee-436a-4775-9497-e12d67ad8af7)
 
@@ -82,7 +82,7 @@
 
 - Footer
   - The footer has a dark background (#333) with white text, providing a clear contrast. 
-  -	Footer contains social media links that open in a new tab.​
+  - Footer contains social media links that open in a new tab.​
 ![footer](https://github.com/Kingabar/resume/assets/131781858/d66167fe-dd0a-4fa1-9f6e-ef7626a4069d)
   - Github - [link](https://github.com/Kingabar)
   - LinkedIn - [link](https://www.linkedin.com/in/kinga-barylowska-47767a277/)
@@ -90,31 +90,30 @@
 
  
 - Pictures used 
-  -	certi.png: Image file for certification.
+  - certi.png: Image file for certification.
   - scrumC.png: Image file for Scrum certification.
   - mypict.png: Kinga's profile picture.
 
 
 
 ## 4. Technologies Used
-  - Languages Used
+ Languages Used
   - HTML was used as the foundation of the site.
   - CSS - was used to add the styles and layout of the site.
 
-	Frameworks, Libraries & Programs Used
-  - Bootstrap 5.3.2:
-  - Bootstrap was used to assist with the responsiveness and styling of the website.
+Frameworks, Libraries & Programs Used
+  - Bootstrap 5.3.2 - Bootstrap was used to assist with the responsiveness and styling of the website.
 
-	Font Awesome:
+Font Awesome:
  - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-	GitHub:
+GitHub:
  - GitHub is used to store the projects code after being pushed from Git.
 
-	Figma
+Figma
  - Figma was used to create the wireframes during the design process.
 
-	Media query adjusts font size for screens wider than 768px.
+Media query adjusts font size for screens wider than 768px.
 
 Design - dominant colours
  - #f8f8f8 (used for the picture paragraph and about me section backgrounds)
@@ -212,16 +211,16 @@ Design - dominant colours
 
 
 ## 7. Credits 
-#### ⦁	Help with Accesibility 
-#### https://www.youtube.com/watch?v=-ao_Kc_8rpE 
-#### ⦁	Code Institute tutors and Slack community members for their support.
-#### ⦁	Julia and Tim (code institute) for mentoring.
-#### ⦁	NavBar from getbootstrap.
-#### https://getbootstrap.com/docs/5.3/components/navbar/
-#### ⦁	Form from get bootstrap.
-#### https://getbootstrap.com/docs/5.3/forms/overview/#overview
-#### ⦁	Chatgpt for help with footer.
-#### ⦁	Font Awesome for github and linked in logos for footer. 
+- Help with Accesibility 
+     https://www.youtube.com/watch?v=-ao_Kc_8rpE
+- Code Institute tutors and Slack community members for their support.
+   Julia and Tim (code institute) for mentoring.
+- NavBar from getbootstrap.
+  https://getbootstrap.com/docs/5.3/components/navbar/
+- Form from get bootstrap.
+  https://getbootstrap.com/docs/5.3/forms/overview/#overview
+- Chatgpt for help with footer and README file
+- Font Awesome for github and linked in logos for footer. 
 
 
 
