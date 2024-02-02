@@ -220,7 +220,7 @@ Figma was used to create the wireframes during the design process.
 
   
  # Lighthouse test
- Lighthouse test [link] (https://googlechrome.github.io/lighthouse/viewer/)
+ Lighthouse test [link] (chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=5&url=https%3A%2F%2Fgooglechrome.github.io%2Flighthouse%2Fviewer%2F)
 
 ## 7. Credits 
 #### ⦁	Help with Accesibility 
