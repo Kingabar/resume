@@ -190,7 +190,7 @@ Figma was used to create the wireframes during the design process.
  - All sections passed the W3C HTML validator with no warnings or errors.
    ![pic](https://github.com/Kingabar/resume/assets/131781858/9e45a362-0901-4077-8943-56ea5753a438)
 
- #
+ - Every possible screen size has been checked, Added just few examples. 
 
 ## Desktop Screens: 
 
@@ -220,7 +220,10 @@ Figma was used to create the wireframes during the design process.
 
   
  # Lighthouse test
- Lighthouse test [link] 
+  ![fullpage1](https://github.com/Kingabar/resume/assets/131781858/0c0711ea-cf49-4c8f-869e-b50635466403)
+  ![fullpage2](https://github.com/Kingabar/resume/assets/131781858/395c3bff-1059-4714-a267-453caa9e7ad8)
+  ![fullpage3](https://github.com/Kingabar/resume/assets/131781858/815855c6-a5f4-4f07-beab-3af9435ca946)
+
 
 
  
