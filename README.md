@@ -30,14 +30,13 @@
 - 2.1 Users stories
 
 +  First Time Visitor Goals:
-  -	As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
-  -	As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
-  - 	As a returning visitor, I want to find a clear and accessible way to get in touch with you, either through a contact form or provided contact details, so that I can ask additional questions or discuss potential collaborations.
+ -	As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
+ -	As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
+ - As a returning visitor, I want to find a clear and accessible way to get in touch with you, either through a contact form or provided contact details, so that I can ask additional questions or discuss potential collaborations.
 
-### Returning Visitor
-  #### ⦁	As a returning visitor, I want to see clearly the job history and certification.
-  #### ⦁	As a returning visitor, I'm interested in discovering community links or any professional affiliations you have, allowing me to learn more about your involvement in the industry and your network.
-
++ Returning Visitor
+ -	As a returning visitor, I want to see clearly the job history and certification.
+ - As a returning visitor, I'm interested in discovering community links or any professional affiliations you have, allowing me to learn more about your involvement in the industry and your network.
 
 ---
 
