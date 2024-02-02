@@ -193,13 +193,13 @@ Figma was used to create the wireframes during the design process.
 
 # Desktop Screens: 
 
-[desktop 1024x600](https://github.com/Kingabar/resume/assets/131781858/5419c10b-9fdc-4603-b6e8-470ca6045055)
-![Desktop 1366x768]![desktop 1366x768](https://github.com/Kingabar/resume/assets/131781858/0b5440ae-40b1-47bf-94dd-cddbed1d5a0e)
-![Desktop 1440x900]![desktop 1440x900](https://github.com/Kingabar/resume/assets/131781858/8c87b604-a2a4-466e-a8de-43eee8f0b810)
-![Desktop 1600x900]![desktop1600x900](https://github.com/Kingabar/resume/assets/131781858/6381c4fb-b1da-4193-b98f-c3913c58c454)
-![Desktop 1680x1050]![desktop 1680x1050](https://github.com/Kingabar/resume/assets/131781858/420d902f-fca5-4e33-a76e-8ebfbaa93ace)
-![Desktop 1920x1080]![desktop 1920x1080](https://github.com/Kingabar/resume/assets/131781858/9fc0662a-7636-47fc-96f9-c2d322bdaaa8)
-![Desktop 1920x1200]![desktop 1920x1200](https://github.com/Kingabar/resume/assets/131781858/aba890df-4d0f-4173-8a13-71c0e5b19319)
+![desktop 1024x600](https://github.com/Kingabar/resume/assets/131781858/5419c10b-9fdc-4603-b6e8-470ca6045055)
+![desktop 1366x768](https://github.com/Kingabar/resume/assets/131781858/0b5440ae-40b1-47bf-94dd-cddbed1d5a0e)
+]![desktop 1440x900](https://github.com/Kingabar/resume/assets/131781858/8c87b604-a2a4-466e-a8de-43eee8f0b810)
+![desktop1600x900](https://github.com/Kingabar/resume/assets/131781858/6381c4fb-b1da-4193-b98f-c3913c58c454)
+![desktop 1680x1050](https://github.com/Kingabar/resume/assets/131781858/420d902f-fca5-4e33-a76e-8ebfbaa93ace)
+![desktop 1920x1080](https://github.com/Kingabar/resume/assets/131781858/9fc0662a-7636-47fc-96f9-c2d322bdaaa8)
+![desktop 1920x1200](https://github.com/Kingabar/resume/assets/131781858/aba890df-4d0f-4173-8a13-71c0e5b19319)
 
 
 - Tablet Screens:
