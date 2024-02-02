@@ -13,7 +13,6 @@
   - 6 Testing
   - 7 Credits
     
----
 
 ## 1. About
    - Welcome to the documentation for Kinga's Page! This web page serves as a personal portfolio for Kinga Barylowska, showcasing her skills, experience, and certifications. 
@@ -24,21 +23,20 @@
   - Showcasing Skills and Experience:  The primary goal is to present Kinga's skills, experience, and certifications in a clear and compelling manner to potential employers, clients, or collaborators.
   -	Personal Branding: Establishing a personal brand is essential. The website aims to reflect Kinga's unique identity, values, and approach to software development, creating a memorable impression among visitors.
 
----
 
 ## 2. Users Experience (UX)
-- 2.1 Users stories
+  2.1 Users stories
 
-+  First Time Visitor Goals:
+  First Time Visitor Goals:
+  
  -	As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
  -	As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
  - As a returning visitor, I want to find a clear and accessible way to get in touch with you, either through a contact form or provided contact details, so that I can ask additional questions or discuss potential collaborations.
 
-+ Returning Visitor
+ Returning Visitor Goals:
+ 
  -	As a returning visitor, I want to see clearly the job history and certification.
  - As a returning visitor, I'm interested in discovering community links or any professional affiliations you have, allowing me to learn more about your involvement in the industry and your network.
-
----
 
 
 ## 3. Features
