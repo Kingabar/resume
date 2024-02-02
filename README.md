@@ -193,7 +193,7 @@ Figma was used to create the wireframes during the design process.
 
 # Desktop Screens: 
 
-![Desktop 1024x600][desktop 1024x600](https://github.com/Kingabar/resume/assets/131781858/5419c10b-9fdc-4603-b6e8-470ca6045055)
+[desktop 1024x600](https://github.com/Kingabar/resume/assets/131781858/5419c10b-9fdc-4603-b6e8-470ca6045055)
 ![Desktop 1366x768]![desktop 1366x768](https://github.com/Kingabar/resume/assets/131781858/0b5440ae-40b1-47bf-94dd-cddbed1d5a0e)
 ![Desktop 1440x900]![desktop 1440x900](https://github.com/Kingabar/resume/assets/131781858/8c87b604-a2a4-466e-a8de-43eee8f0b810)
 ![Desktop 1600x900]![desktop1600x900](https://github.com/Kingabar/resume/assets/131781858/6381c4fb-b1da-4193-b98f-c3913c58c454)
