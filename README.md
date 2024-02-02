@@ -190,8 +190,9 @@ Figma was used to create the wireframes during the design process.
  - All sections passed the W3C HTML validator with no warnings or errors.
    ![pic](https://github.com/Kingabar/resume/assets/131781858/9e45a362-0901-4077-8943-56ea5753a438)
 
+ #
 
-# Desktop Screens: 
+## Desktop Screens: 
 
 ![desktop 1024x600](https://github.com/Kingabar/resume/assets/131781858/5419c10b-9fdc-4603-b6e8-470ca6045055)
 ![desktop 1366x768](https://github.com/Kingabar/resume/assets/131781858/0b5440ae-40b1-47bf-94dd-cddbed1d5a0e)
@@ -202,27 +203,22 @@ Figma was used to create the wireframes during the design process.
 ![desktop 1920x1200](https://github.com/Kingabar/resume/assets/131781858/aba890df-4d0f-4173-8a13-71c0e5b19319)
 
 
-- Tablet Screens:
+## Tablet Screens:
 
     ![tablet 600x960](https://github.com/Kingabar/resume/assets/131781858/196c845c-e22d-4f59-84da-da3a9ca2c68f)
     ![tablet 768x1024](https://github.com/Kingabar/resume/assets/131781858/d94f0381-245c-4b67-9815-c1c7bbcac811)
     ![tablet 800x1280](https://github.com/Kingabar/resume/assets/131781858/07086b2d-20ce-4ee5-b1b3-bb0b92570a3c)
-    ![Tablet 1366x1024]![tablet 1366x1024](https://github.com/Kingabar/resume/assets/131781858/97d2ab8c-98f9-45fd-9f4f-bf3bbf2ab763)
+    ![tablet 1366x1024](https://github.com/Kingabar/resume/assets/131781858/97d2ab8c-98f9-45fd-9f4f-bf3bbf2ab763)
     
 
 
-- Mobile:
+## Mobile:
 
     ![Mobile 320x480]![mobile 320x480](https://github.com/Kingabar/resume/assets/131781858/82337f4c-dfed-472a-9728-cd1861112275)
-    ![Mobile 320x568]
-    ![Mobile 360x640]
-    ![Mobile 375x667]
-    ![Mobile 384x640]
-    ![Mobile 411x731]
     ![Mobile 414x736]![mobile 414x736](https://github.com/Kingabar/resume/assets/131781858/54c81897-82fd-4557-8d26-2b1ae53e715b)
 
 
- ## Lighthouse test
+ # Lighthouse test
 
 
 ## 7. Credits 
