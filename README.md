@@ -215,7 +215,7 @@ Design - dominant colours
 
 ## 7. Credits 
 - Help with Accesibility 
-     https://www.youtube.com/watch?v=-ao_Kc_8rpE
+  https://www.youtube.com/watch?v=-ao_Kc_8rpE
 - Code Institute tutors and Slack community members for their support.
    Julia and Tim (code institute) for mentoring.
 - NavBar from getbootstrap.
