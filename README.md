@@ -202,12 +202,15 @@ Design - dominant colours
 
 + The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F&width=360&height=640)
 
+## Manual testing 
+![Manual Testing](https://github.com/Kingabar/resume/assets/131781858/c89322e7-1299-4166-a820-c8e05e79bf6f)
+
+
   
  # Lighthouse test
   ![fullpage1](https://github.com/Kingabar/resume/assets/131781858/0c0711ea-cf49-4c8f-869e-b50635466403)
   ![fullpage2](https://github.com/Kingabar/resume/assets/131781858/395c3bff-1059-4714-a267-453caa9e7ad8)
   ![fullpage3](https://github.com/Kingabar/resume/assets/131781858/815855c6-a5f4-4f07-beab-3af9435ca946)
-
 
 
 ## 7. Credits 
@@ -222,7 +225,12 @@ Design - dominant colours
 - Chatgpt for help with footer and README file
 - Font Awesome for github and linked in logos for footer. 
 
-
+## Future improvements
+ - More content
+ - more Icons
+ - Implement a fully functional form
+ - Create a custom 404 page
+ - Wave Testing
 
 # Feel free to explore Kinga's Page, and if you have any questions or feedback, please contact her through the provided information in the Contact section.
 
