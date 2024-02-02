@@ -4,14 +4,14 @@
 ## Website can be accesed by [link](https://kingabar.github.io/resume/)
 
 
-## Table of Contents
-#### 1 About
-#### 2 Users Experience (UX)
-#### 3 Features
-#### 4 Technologies Used
-#### 5 Deployment
-#### 6 Testing
-#### 7 Credits
+ ### Table of Contents
+  - 1 About
+  - 2 Users Experience (UX)
+  - 3 Features
+  - 4 Technologies Used
+  - 5 Deployment
+  - 6 Testing
+  - 7 Credits
 
 
 ---
