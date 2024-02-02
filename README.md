@@ -72,7 +72,6 @@
 ![Certis](https://github.com/Kingabar/resume/assets/131781858/e427714c-ebfa-40e5-912c-2c035da177c6)
 
 
-
  
 - Contact Form
  -	The form is styled with a maximum width of 400px, centered, and has a light background (#f4f4f4).
@@ -98,32 +97,28 @@
 
 
 ## 4. Technologies Used
-### ⦁	Languages Used
-#### HTML was used as the foundation of the site.
-#### CSS - was used to add the styles and layout of the site.
+  - Languages Used
+  - HTML was used as the foundation of the site.
+  - CSS - was used to add the styles and layout of the site.
 
-### ⦁	Frameworks, Libraries & Programs Used
-#### Bootstrap 5.3.2:
-#### Bootstrap was used to assist with the responsiveness and styling of the website.
+	Frameworks, Libraries & Programs Used
+  - Bootstrap 5.3.2:
+  - Bootstrap was used to assist with the responsiveness and styling of the website.
 
-### ⦁	Font Awesome:
-Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+	Font Awesome:
+ - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-#### ⦁	GitHub:
-GitHub is used to store the projects code after being pushed from Git.
+	GitHub:
+ - GitHub is used to store the projects code after being pushed from Git.
 
-### ⦁	Figma
-Figma was used to create the wireframes during the design process.
+	Figma
+ - Figma was used to create the wireframes during the design process.
 
-### ⦁	Media query adjusts font size for screens wider than 768px.
+	Media query adjusts font size for screens wider than 768px.
 
-## Design - dominant colours
-### #f8f8f8 (used for the picture paragraph and about me section backgrounds)
- 
-### #333 (used for the navigation bar and footer container backgrounds)
-
-
- ---
+Design - dominant colours
+ - #f8f8f8 (used for the picture paragraph and about me section backgrounds)
+ - #333 (used for the navigation bar and footer container backgrounds)
 
 
 ## 5. Deployment
@@ -133,7 +128,7 @@ Figma was used to create the wireframes during the design process.
    Click on GitHub pages, this will take you to deployments history where you will be able to click on 'view deployment'.
    The live link can be found here - [Link to Live Site Here](https://kingabar.github.io/resume/)
 
-  **Local Deployment**
+  - Local Deployment
 
   *Prerequisites: Github account, Visual Studio Code, Live Server Extension for VScode.*
 
@@ -216,7 +211,6 @@ Figma was used to create the wireframes during the design process.
 
 
 
- 
 ## 7. Credits 
 #### ⦁	Help with Accesibility 
 #### https://www.youtube.com/watch?v=-ao_Kc_8rpE 
@@ -229,7 +223,7 @@ Figma was used to create the wireframes during the design process.
 #### ⦁	Chatgpt for help with footer.
 #### ⦁	Font Awesome for github and linked in logos for footer. 
 
-------
+
 
 # Feel free to explore Kinga's Page, and if you have any questions or feedback, please contact her through the provided information in the Contact section.
 
