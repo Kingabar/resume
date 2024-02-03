@@ -174,8 +174,6 @@ Design - dominant colours
  - All sections passed the W3C HTML validator with no warnings or errors.
    ![pic](https://github.com/Kingabar/resume/assets/131781858/9e45a362-0901-4077-8943-56ea5753a438)
 
- - Every possible screen size has been checked, Added just few examples. 
-
 ## Desktop Screens: 
 
 ![desktop 1024x600](https://github.com/Kingabar/resume/assets/131781858/5419c10b-9fdc-4603-b6e8-470ca6045055)
@@ -201,6 +199,7 @@ Design - dominant colours
   ![mobile 414x736](https://github.com/Kingabar/resume/assets/131781858/54c81897-82fd-4557-8d26-2b1ae53e715b)
 
 + The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fkingabar.github.io%2Fresume%2F&width=360&height=640)
++ Every possible screen size has been checked, Added just few examples. 
 
 ## Manual testing 
 ![Manual Testing](https://github.com/Kingabar/resume/assets/131781858/c89322e7-1299-4166-a820-c8e05e79bf6f)
